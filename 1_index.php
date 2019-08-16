@@ -64,3 +64,4 @@ if ($flag = true) {
     echo 'нет';
 }
 ?>
+
